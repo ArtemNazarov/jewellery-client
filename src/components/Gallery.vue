@@ -4,13 +4,15 @@
       <div class="columns is-multiline">
         <div class="column">
           <img
-            
             src="https://sun9-54.userapi.com/zHAr3BYYNla8Wj8lXTcANYieQ9tM8NcjrSs_EQ/VjI_7vG4nSk.jpg"
             alt
           />
         </div>
         <div class="column">
-          <img src="https://sun9-36.userapi.com/c858528/v858528491/1ae22d/t8DnGDj3YzY.jpg" alt />
+          <img
+            src="https://sun9-36.userapi.com/c858528/v858528491/1ae22d/t8DnGDj3YzY.jpg"
+            alt
+          />
         </div>
         <div class="column">
           <img
