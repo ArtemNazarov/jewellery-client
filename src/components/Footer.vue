@@ -3,10 +3,8 @@
     <div class="container">
       <div class="content">
         <div class="columns">
-          <div class="column">Привет</div>
-        </div>
-        <div class="columns">
-          <div class="column">Я Лера</div>
+          <div class="column navbar-logo">JEWELLERY</div>
+          <div class="column">All rights reserved</div>
         </div>
       </div>
     </div>
